@@ -3,7 +3,7 @@ document.addEventListener("DOMContentLoaded", function() {
     // --- Efeito Typewriter (Máquina de Escrever) ---
     const typewriterElement = document.getElementById('typewriter');
     if (typewriterElement) {
-        const phrases = ["Desenvolvedor Web", "Estudante de Análise de Sistemas", "Entusiasta de Tecnologia", "Futuro Dev Full-Stack"];
+        const phrases = ["Desenvolvedor Web", "Desenvolvedor Backend" ,"Estudante de Análise de Sistemas", "Entusiasta de Tecnologia", "Dev Full-Stack"];
         let phraseIndex = 0;
         let charIndex = 0;
         let isDeleting = false;
